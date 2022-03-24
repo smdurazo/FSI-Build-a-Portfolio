@@ -1,0 +1,9 @@
+body {
+    background-color: lightpink;
+    cursor: pointer;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
